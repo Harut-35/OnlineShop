@@ -1,4 +1,4 @@
-var rus = {
+let rus = {
     foto:'Фото',
    name: 'имя',
    tesak: 'Тип',
@@ -37,7 +37,7 @@ var rus = {
    durs:'Выход',
 
 };
-var eng = {
+let eng = {
  foto:'photo',
    name: 'name',
    tesak: 'type',
@@ -80,7 +80,7 @@ var eng = {
 
 
 };
-var arm = {
+let arm = {
     foto:'Նկար',
       name: 'Անուն',
       tesak: 'Տեսակ',
